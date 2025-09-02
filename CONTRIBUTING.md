@@ -1,6 +1,6 @@
-# Contributing to FDO1
+# Contributing to FAIR Data Publisher
 
-Thank you for your interest in contributing to FDO1! This document provides guidelines and instructions for contributing.
+Thank you for your interest in contributing to FAIR Data Publisher! This document provides guidelines and instructions for contributing.
 
 ## Branching Strategy
 
