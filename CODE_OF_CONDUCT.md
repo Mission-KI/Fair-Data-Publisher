@@ -1,8 +1,8 @@
-# Code of Conduct for FDO1 Project
+# Code of Conduct for Fair Data Publisher Project
 
 ## Our Commitment
 
-As contributors and maintainers of the FDO1 project, we are committed to creating a collaborative environment that promotes FAIR principles not only in our technical implementation but also in our community interactions. We pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+As contributors and maintainers of the FAIR Data Publisher project, we are committed to creating a collaborative environment that promotes FAIR principles not only in our technical implementation but also in our community interactions. We pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -96,4 +96,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](http://contribut
 
 ---
 
-Last updated: February 2025
+Last updated: September 2025
