@@ -141,7 +141,6 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions about the archived FDO implementation:
-- Email: calvez@acatech.de
 - General: git-mission-ki@acatech.de
 
 ---
