@@ -66,7 +66,7 @@ The archived implementation contains the complete Fair Digital Objects infrastru
 - **Last Commit**: `69be7afb660d99fb235d236d53459f215a9abab0`
 - **Commit Date**: September 2, 2025
 - **Total Files**: 459 files
-- **Author**: PhCAcatech (calvez@acatech.de)
+- **Author**: P.C.
 
 ---
 
@@ -141,7 +141,6 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions about the archived FDO implementation:
-- Email: calvez@acatech.de
 - General: git-mission-ki@acatech.de
 
 ---
